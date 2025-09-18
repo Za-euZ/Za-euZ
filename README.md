@@ -1,2 +1,2 @@
 Sup. Name's Sam, and I do gamedev and pixel art stuff.
-Mostly Godot and Gdscript here 
+Mostly Godot and Gdscript here, and CS college projects.
